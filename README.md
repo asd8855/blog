@@ -1,3 +1,3 @@
 # Blog
 
-### [iOS](iOS/Tip.READ.ME.md)
+### [iOS](iOS/Tip.README.md)
